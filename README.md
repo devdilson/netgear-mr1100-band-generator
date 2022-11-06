@@ -1,7 +1,9 @@
 # netgear-mr5200-band-generator
 
 
-To show signal strength: 
+## Show signal strength
+
+[Credits to MioNonno](https://www.youtube.com/c/MioNonno).
 
 ```javascript
 javascript: addBar();
