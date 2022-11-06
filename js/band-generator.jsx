@@ -43,6 +43,13 @@ const BANDS = {
     lBand: 64,
     lBandHex: '0000000000000040'
   },
+  B8: {
+    band: 8,
+    type: '900 MHz',
+    description: 'B8',
+    lBand: 128,
+    lBandHex: '0000000000000080'
+  },
   B12: {
     band: 12,
     type: '700 MHz Lower B/C/A',
