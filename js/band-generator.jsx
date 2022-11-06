@@ -64,6 +64,13 @@ const BANDS = {
     lBand: 8192,
     lBandHex: '0000000000002000'
   },
+  B20: {
+    band: 20,
+    type: '800 MHz',
+    description: 'B20 (800 MHz) - HB Radiofrequency',
+    lBand: 524288,
+    lBandHex: '0000000000080000'
+  },
   B28: {
     band: 28,
     type: '700 MHz',
