@@ -99,6 +99,13 @@ const BANDS = {
     lBand: 35184372088832,
     lBandHex: '0000200000000000'
   },
+  B78: {
+    band: 78,
+    type: '3500 MHz 5G LAA',
+    description: 'Movistar 3500mhz',
+    lBand: 8192,
+    lBandHex: '0000000000002000'
+  },
 
 // 1A1NAS = Bands 1, 2, 3, 4, 5, 7, 12,     20, 29, 30, 46, 66
 // 2A1NAS = Bands 1, 2, 3, 4, 5, 7, 12, 14, 20, 29, 30, 46, 66
